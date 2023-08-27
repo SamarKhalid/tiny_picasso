@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TinyPicasso" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">#00A100</item>
+        <item name="android:statusBarColor">#00A100</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+    <style name="Theme.TinyPicasso" parent="Base.Theme.TinyPicasso" />
+
+</resources>
